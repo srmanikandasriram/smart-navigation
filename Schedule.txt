@@ -1,0 +1,24 @@
+Phase 1: R n D
+
+Echo:
+    Done:
+        1. Hardware and connections w/o wireless
+        2. Menu structure
+        3. Words input
+    To be completed:
+        1. Merging the individual blocks
+        2. Final KeyPad array
+    Researching:
+        1. Wireless
+Fred the Freddy:
+    Done:
+        Yet to start!!!
+        <!--have a testing chasis-->
+    To be completed:
+        Yet to start!!!
+        <!-- connections for the phase 1 testing -->
+    Researching:
+        1. Encoders
+        2. Memory storage
+        3. atmega 16/128 ?
+        4. algo?
